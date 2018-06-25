@@ -33,7 +33,8 @@ public class SandfordSimpleNLPExample
         StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
 
         // read some text in the text variable
-        String text = "Karma of humans is AI";
+        //String text = "Karma of humans is AI";
+        String text = "As a moderator I want to create a new game by entering a name and an optional description So that I can start inviting estimators.";
         // create an empty Annotation just with the given text
         Annotation document = new Annotation(text);
 

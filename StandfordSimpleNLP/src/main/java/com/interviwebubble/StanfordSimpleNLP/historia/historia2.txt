@@ -1,0 +1,4 @@
+As a moderator
+I want to invite estimators by given them a URL
+where they can access the game
+So that we can start the game

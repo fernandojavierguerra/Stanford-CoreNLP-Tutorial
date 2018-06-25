@@ -1,0 +1,3 @@
+As a moderator
+I want to create a new game by entering a name and an optional description
+So that I can start inviting estimators.
